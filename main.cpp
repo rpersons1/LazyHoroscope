@@ -41,9 +41,6 @@ int main()
   if(let == 'a' || let == 'e' || let == 'i' || let == 'o' || let == 'u'
   || let == 'A' || let == 'E' || let == 'I' || let == 'O' || let == 'U')
   {
-  }
-  else
-  {
   cout<<"you have already met your true love.\n";
   }
 
